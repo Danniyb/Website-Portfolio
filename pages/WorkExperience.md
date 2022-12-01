@@ -1,3 +1,12 @@
+---
+title: About
+date: 2019-07-09
+menu:
+  main:
+    weight: 999
+---
+
+
 ## Tech Crew - Sound engineer 
 * Worked with my High School's Tech Crew during productions involving plays and show to do sounds for the cast. I did livestreams for sporting events where I engaged with sound engineering 
 
