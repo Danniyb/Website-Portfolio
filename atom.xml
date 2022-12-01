@@ -6,11 +6,28 @@
   <subtitle><![CDATA[A ready to use static blog, powered by Cecil.]]></subtitle>
   <link href="https://cecilapp.github.io/the-butler/atom.xml" rel="self" type="application/atom+xml" />
   <link href="https://cecilapp.github.io/the-butler/" rel="alternate" type="text/html" />
-  <updated>2020-03-09T01:00:00+01:00</updated>
+  <updated>2022-12-01T01:37:08+01:00</updated>
   <author>
     <name>The Butler</name>
     <uri>https://cecilapp.github.io/the-butler/</uri>
   </author>
+  <entry xml:lang="en">
+    <id>https://cecilapp.github.io/the-butler/workexperience/</id>
+    <title>WorkExperience</title>
+    <content type="html">
+      <![CDATA[<h2 id="tech-crew-sound-engineer">Tech Crew - Sound engineer</h2>
+<ul>
+<li>Worked with my High School's Tech Crew during productions involving plays and show to do sounds for the cast. I did livestreams for sporting events where I engaged with sound engineering </li>
+</ul>
+<h2 id="internships-sunpicks">Internships - Sunpicks</h2>
+<ul>
+<li>Developed a Resume builder website over 4 weeks. This was a website design to asset hurdles people are facing in Ethiopia in the job market with finding templates that are accepted by company across the capital of the nation. </li>
+</ul>]]>
+    </content>
+    <link href="https://cecilapp.github.io/the-butler/workexperience/" rel="alternate" type="text/html" />
+    <published>2022-12-01T01:37:08+01:00</published>
+    <updated>2022-12-01T01:37:08+01:00</updated>
+  </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/blog/princess-mononoke/</id>
     <title>Princess Mononoke</title>
@@ -25,7 +42,7 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/princess-mononoke/" rel="alternate" type="text/html" />
     <published>2020-03-09T01:00:00+01:00</published>
-    <updated>2022-12-01T01:25:36+01:00</updated>
+    <updated>2022-12-01T01:37:08+01:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/blog/daft-punk/</id>
@@ -41,7 +58,7 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/daft-punk/" rel="alternate" type="text/html" />
     <published>2020-02-05T15:43:00+01:00</published>
-    <updated>2022-12-01T01:25:36+01:00</updated>
+    <updated>2022-12-01T01:37:08+01:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/blog/doom/</id>
@@ -57,7 +74,7 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/doom/" rel="alternate" type="text/html" />
     <published>2019-12-14T01:00:00+01:00</published>
-    <updated>2022-12-01T01:25:36+01:00</updated>
+    <updated>2022-12-01T01:37:08+01:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/about/</id>
@@ -76,6 +93,6 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/about/" rel="alternate" type="text/html" />
     <published>2019-07-09T02:00:00+02:00</published>
-    <updated>2022-12-01T01:25:36+01:00</updated>
+    <updated>2022-12-01T01:37:08+01:00</updated>
   </entry>
 </feed>
