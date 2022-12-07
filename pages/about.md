@@ -1,9 +1,9 @@
 ---
-title: Background and Content
+title: Experience 
 date: 2019-07-09
 menu:
   main:
     weight: 999
 draft: false
 ---
-E﻿mail: bekele01@allegheny.edu
+Email: bekele01@allegheny.edu
