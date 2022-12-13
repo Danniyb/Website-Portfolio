@@ -26,6 +26,25 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/education/" rel="alternate" type="text/html" />
     <published>2019-07-09T02:00:00+02:00</published>
-    <updated>2022-12-13T01:58:00+01:00</updated>
+    <updated>2022-12-13T01:59:31+01:00</updated>
+  </entry>
+  <entry xml:lang="en">
+    <id>https://cecilapp.github.io/the-butler/experience/</id>
+    <title>Experience</title>
+    <content type="html">
+      <![CDATA[<h2 id="tech-crew-sound-engineer">Tech Crew - Sound engineer</h2>
+<ul>
+<li>Worked with my High School's Tech Crew during productions involving plays and show to do sounds for the cast. I did livestreams for sporting events where I engaged with sound engineering </li>
+</ul>
+<img src="https://cecilapp.github.io/the-butler/images/production.753d796c88ae3559e8e68ca299cde619.jpeg" alt="pic" loading="lazy" width="2000" height="1333" />
+<h2 id="internships-sunpicks">Internships - Sunpicks</h2>
+<ul>
+<li>Developed a Resume builder website over 4 weeks. This was a website design to asset hurdles people are facing in Ethiopia in the job market with finding templates that are accepted by company across the capital of the nation. </li>
+</ul>
+<img src="https://cecilapp.github.io/the-butler/images/sunpicks.9a79eb56bb3ddf6adf52daa1ff57f7f0.jpeg" alt="pic" loading="lazy" width="1277" height="1280" />]]>
+    </content>
+    <link href="https://cecilapp.github.io/the-butler/experience/" rel="alternate" type="text/html" />
+    <published>2019-07-09T02:00:00+02:00</published>
+    <updated>2022-12-13T01:59:31+01:00</updated>
   </entry>
 </feed>
