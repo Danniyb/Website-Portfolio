@@ -15,3 +15,4 @@ draft: false
 ## Internships - Sunpicks
 * Developed a Resume builder website over 4 weeks. This was a website design to asset hurdles people are facing in Ethiopia in the job market with finding templates that are accepted by company across the capital of the nation. 
 
+![pic](../assets/images/sunpicks.jpeg)
